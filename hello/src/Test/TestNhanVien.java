@@ -16,9 +16,10 @@ public class TestNhanVien {
 		nv = new NhanVien();
 		nv.setTen("Johnny");
 		nvLst.add(nv);
-		
+		NhanVien nv1 = new NhanVien();
+		nv1.setTen("Loc");
 		for (int i = 0; i < nvLst.size(); i++) {
-			System.out.println(nvLst.get(i).getTen());
+			System.out.println(nvLst.get(i).getTen().equals(nv1.getTen().toString().trim()));
 		}
 
 	}
