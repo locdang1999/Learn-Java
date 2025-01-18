@@ -1,0 +1,29 @@
+{
+	"test": [
+		{
+			"value01": "Java",
+			"value02": "Java",
+			"value10": 10
+		},
+		{
+			"value01": "Go",
+			"value02": "Golang",
+			"value10": 10
+		},
+		{
+			"value01": "JS",
+			"value02": "Javascipt",
+			"value10": 9
+		},
+		{
+			"value01": "Rust",
+			"value02": "Rust",
+			"value10": 20
+		},
+		{
+			"value01": "HTML",
+			"value02": "HTML",
+			"value10": 20
+		}
+	]
+}
